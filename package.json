@@ -1,0 +1,23 @@
+{
+  "name": "practice-node.js-advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilboking/Node_crash-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bilboking/Node_crash-course/issues"
+  },
+  "homepage": "https://github.com/Bilboking/Node_crash-course#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
